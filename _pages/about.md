@@ -1,6 +1,7 @@
 ---
 permalink: /
 title : "Who am I?"
+name  : "Z Rayan"
 author_profile: true
 redirect_from: 
   - /about/
