@@ -23,11 +23,11 @@ repository               : "zed-aar/This-is-me"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Z Rayan"
+  pronouns         : "She/Her"  
+  bio              : "MA in Digital Humanities, Banker"
+  location         : "Milky Way"
+  employer         : "Bangladesh Krishi Bank"
   uri              : # URL
   email            : "none@example.org" 
 
