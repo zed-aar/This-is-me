@@ -1,7 +1,6 @@
 ---
 permalink: /
-title : "Z Rayan | Academic Portfolio"
-name  : "Z Rayan"
+title : "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
