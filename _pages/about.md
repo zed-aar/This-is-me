@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Z Rayan, a Master's student in Digital Humanities with a background in banking and finance. My work focuses on how technology and data can address real-world challenges, particularly in the areas of financial inclusion and social equity.
+I am a Digital Humanities graduate student at the University of Alberta, working at the intersection of Information Science, banking, and finance. My academic and professional experiences have shaped a growing interest in how technology mediates human life, and how interdisciplinary approaches can help us better understand that relationship.
 
-I have professional experience as a Branch Operations Manager at Bangladesh Krishi Bank, where I worked closely with rural communities. This experience has shaped my interest in understanding how digital tools can support underrepresented groups, especially women, in accessing financial systems.
-
-My academic interests include digital archives, data analysis, and ethical data practices. Through my work, I aim to explore how interdisciplinary approaches in Digital Humanities can contribute to more inclusive and equitable systems.
-
-This website presents my academic work, projects, and reflections as a developing maker-scholar.
+I am particularly drawn to the ways digital tools represent complex social realities and influence how meaning is created through interaction. Through my work, I aim to explore how systems designed by humans reflect human values, assumptions, and inequalities-and how they might be reimagined in more thoughtful and inclusive ways.
