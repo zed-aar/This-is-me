@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "After the Choice"
+excerpt: "Interactive fiction exploring identity, disclosure, and emotional consequence."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**After the Choice** is an interactive fiction project created in Twine that explores identity, disclosure, and emotional consequence through branching narrative.
+
+The project emphasizes emotional aftermath rather than decision-making itself, showing how both acceptance and denial lead to different forms of loss.
+
+🔗 Play here: https://z.github.io/This-is-me/twine/after-the-choice.html
