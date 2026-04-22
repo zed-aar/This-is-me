@@ -4,4 +4,4 @@ excerpt: "Minimalist Bitsy game exploring wandering, humor, and unresolved meani
 collection: portfolio
 ---
 
-🔗 **Play here:** https://z.github.io/This-is-me/bitsy/finding-khufu.html
+🔗 **Play here:** https://zed-aar.github.io/This-is-me/bitsy/where-is-khufu.html
