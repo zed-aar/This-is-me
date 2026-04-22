@@ -1,5 +1,6 @@
-- title: "CV"
-  url: /cv/
+main:
+  - title: "CV"
+    url: /cv/
 
-- title: "Portfolio"
-  url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
